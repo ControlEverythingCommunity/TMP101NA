@@ -38,7 +38,7 @@ public class TMP101NA
 		double fTemp = cTemp * 1.8 + 32;
 
 		// Output data to screen
-		System.out.printf("Temperature in celsisus is : %.2f C %n", cTemp);
+		System.out.printf("Temperature in Celsius is : %.2f C %n", cTemp);
 		System.out.printf("Temperature in Fahrenheit is : %.2f F %n", fTemp);
 	}
 }
