@@ -56,7 +56,7 @@ void loop()
   Serial.print("Temperature in Celsius : ");
   Serial.print(cTemp);
   Serial.println(" C");
-  Serial.print("Temperature in Farhenheit : ");
+  Serial.print("Temperature in Fahrenheit : ");
   Serial.print(fTemp);
   Serial.println(" F");
   delay(500);
